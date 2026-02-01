@@ -1,4 +1,4 @@
-"""
+
 #for including single quote ' with the help of --> " "
 print("Ravi's book")
 
@@ -19,4 +19,3 @@ print(num1+num2, num1-num2, num1*num2, num1/num2, num1//num2, num1**num2, num1%n
 #indexing [a:b] a--> starting, b --> ending
 name = 'RAVIALLAM'
 print(name[0], name[-1], name[0:2], name[1:], name[:4], name[::-1])
-"""
