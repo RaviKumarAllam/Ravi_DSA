@@ -39,4 +39,5 @@ colorss = ['red', 'rose', 'green', 'blue','red']
 for c in colorss:
     if c.startswith('r'):
         colorss.remove(c)
+
 print(colorss)
